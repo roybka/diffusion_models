@@ -1,0 +1,48 @@
+First comic book:
+https://jalammar.github.io/illustrated-stable-diffusion/
+
+
+Prompt guides
+https://strikingloo.github.io/stable-diffusion-vs-dalle-2
+
+https://www.howtogeek.com/833169/how-to-write-an-
+awesome-stable-diffusion-prompt/
+
+https://www.youtube.com/watch?v=-Ls3J5kArqQ
+
+
+search engines
+https://lexica.art/
+https://www.krea.ai/
+
+
+APIs:
+https://beta.dreamstudio.ai/dream - SD
+https://replicate.com/stability-ai/stable-diffusion - SD
+code - https://github.com/Stability-AI/stability-sdk - SD
+code - https://github.com/lucidrains/DALLE2-pytorch -DE2
+
+https://www.midjourney.com/home/ - MJ (discord account or use the APP). 
+
+Colab notebooks:
+https://colab.research.google.com/github/alembics/disco-diffusion/blob/main/Disco_Diffusion.ipynb#scrollTo=License
+https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/stable_diffusion.ipynb
+
+NY times piece on Jason Allen's work:
+https://www.nytimes.com/2022/09/02/technology/ai-artificial-intelligence-artists.html
+
+youtube on cosmopolitan cover - https://www.youtube.com/watch?v=8fthDHDshvg
+
+Reads about fairness:
+https://dataethics.eu/ai-image-generator-this-is-someone-thinking-about-data-ethics/
+https://www.forbes.com/sites/robsalkowitz/2022/09/16/ai-is-coming-for-commercial-art-jobs-can-it-be-stopped/?sh=7a53922c54b0
+https://www.youtube.com/watch?v=I-PaCc96oQM&t=10s
+https://thewildcattribune.com/15530/ae/ai-generated-art-raises-ethical-concerns/
+
+Read about the LAION dataset:
+https://www.infoq.com/news/2022/05/laion-5b-image-text-dataset/
+https://laion.ai/faq/
+
+Understanding how it works:
+https://jalammar.github.io/illustrated-stable-diffusion/
+
